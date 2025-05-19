@@ -1,0 +1,15 @@
+*.dcu
+*.exe
+*.~*
+*.local
+*.identcache
+__history/
+*.tds
+*.map
+*.bak
+*.cfg
+*.dsk
+*.stat
+*.dproj.local
+*.log
+*.tmp
